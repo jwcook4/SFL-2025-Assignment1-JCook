@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFL2025-Assignment1-JCook", "SFL2025-Assignment1-JCook.csproj", "{DCC4F182-E466-4FD6-A3A6-0E34DB00C5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC4F182-E466-4FD6-A3A6-0E34DB00C5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC4F182-E466-4FD6-A3A6-0E34DB00C5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC4F182-E466-4FD6-A3A6-0E34DB00C5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC4F182-E466-4FD6-A3A6-0E34DB00C5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FEF22C-EE6D-4D3E-B317-584492BA7DA6}
+	EndGlobalSection
+EndGlobal

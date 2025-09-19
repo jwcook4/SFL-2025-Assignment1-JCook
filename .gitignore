@@ -1,0 +1,21 @@
+﻿# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio cache
+.vs/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Publish profiles
+Properties/PublishProfiles/
+Properties/ServiceDependencies/
+
+# Node modules (if ever used)
+node_modules/
